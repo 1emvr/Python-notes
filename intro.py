@@ -1,3 +1,5 @@
+
+
 # This is the beginning of my coding journey ---
 # Ask the user for their name
 
@@ -20,3 +22,5 @@ varName = varName.strip().title()
 
 # Hello, user (formated)...
 print(f"hello, {varName}, how are you?")
+
+
