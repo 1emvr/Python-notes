@@ -1,6 +1,5 @@
 # Create your own functions
 
-
 def main():
     letName = input("Hi, there. What's your name? ")
     hello(letName)
