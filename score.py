@@ -82,7 +82,8 @@ else:
     print("try harder")
 
 
-### We can use this and not have overlapping score results because of the "elif" functionality... It reads from top to bottom, serially:
+### We can use this and not have overlapping score results because of the "elif" functionality... 
+### It reads from top to bottom, serially:
 
 # 1. Is score >= 96?? (no)
 # 2. Is score >= 90?? (95)

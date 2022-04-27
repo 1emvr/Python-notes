@@ -1,5 +1,3 @@
-
-
 def main():
     
     name = input("Hello, what's your name? ")
@@ -10,5 +8,3 @@ def hello(toWhom):
     print("Well hello,", toWhom)
 
 main()
-
-
