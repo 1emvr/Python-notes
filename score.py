@@ -32,22 +32,22 @@ else:
 
 score = int(input("Score: "))
 
-if 96 >= score <= 100:
+if 96 <= score <= 100:
     print("A+")
 
-elif 90 >= score <= 95:
+elif 90 <= score <= 95:
     print("A")
 
-elif 86 >= score <= 89:
+elif 86 <= score <= 89:
     print("B+")
 
-elif 80 >= score <= 85:
+elif 80 <= score <= 85:
     print("B")
 
-elif 76 >= score <= 79:
+elif 76 <= score <= 79:
     print("C+")
 
-elif 70 >= score <= 75:
+elif 70 <= score <= 75:
     print("C")
 
 else:
