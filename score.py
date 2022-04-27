@@ -1,7 +1,8 @@
 
-"""
 
 score = int(input("Score: "))
+
+"""
 
 if score >= 96 and score <= 100:
     print("A+")
