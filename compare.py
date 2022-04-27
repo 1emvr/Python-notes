@@ -42,5 +42,5 @@ def compare():
 
 compare()
 
-### Rem3mbr, you can append "or" statements to be more concise, if the situation permits
+### Rem3mbr, you can append "or" statements to be more concise, if the situation permits. Same with "and"
 
