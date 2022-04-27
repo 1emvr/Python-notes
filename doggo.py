@@ -68,7 +68,7 @@ def dictionary():
     }
 
     for animal in canines:
-        print(animal, canines[animal], sep = " :") ## print "canines" and their index[value]
+        print(animal, canines[animal], sep = ": ") ## print "canines" and their index[value]
 
 dictionary()
 
